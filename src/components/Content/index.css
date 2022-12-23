@@ -1,0 +1,9 @@
+.divClass {
+  padding: 40px 20px ;
+  background-color: rgb(155, 174, 207);
+}
+
+.tableRow > td {
+  min-width: 180px !important;
+  border-left: 1px solid black;
+}

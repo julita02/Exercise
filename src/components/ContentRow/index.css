@@ -1,0 +1,15 @@
+.divClass {
+  background-color: rgb(155, 174, 207);
+}
+
+.tableRow  {
+  border: 1px solid black;
+}
+.tableRow > td {
+  
+  min-width: 130px !important;
+  
+  text-align: left !important;
+  border-left: 1px solid black;
+  font-size: 12px !important;
+}
